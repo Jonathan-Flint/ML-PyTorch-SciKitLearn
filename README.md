@@ -14,9 +14,9 @@ Here I give an outline of each chapter of the text based on the contents pages. 
 
 ### Chaper 1: Giving Computers the Ability to Learn from Data
 
-This chapter gives an introduction to ML, the different types of ML, lays out terminology used in the text, gives a road map for ML model development and a guide to installing python both directly and through the Anaconda framework. My personal preferance is to use Anaconda for my IDE (99% of the time this is VSCode) and package control.
+This chapter gives an introduction to ML, the different types of ML, lays out terminology used in the text, gives a road map for ML model development and a guide to installing python both directly and through the Anaconda framework. My personal preferance is to use Anaconda for my environment and package controller UI and VScode as my IDE.
 
 ### Chapter 2: Training Simple Machine Learning Algorithms for Classification
 
-This chapter has a brief history of the field and begins introducing ML concepts like Neural Networks, perceptrons and gradient descent
+This chapter has a brief history of the field and begins introducing ML concepts like Neural Networks, perceptrons and gradient descent and implements a basic perceptron ML model for classifying 
 
